@@ -5,4 +5,4 @@ CODE
 firstname = str(input("Input your First Name : "))
 lastname = str(input("Input your Last Name : "))
 print ("" + lastname + " " + firstname)
-.
+
